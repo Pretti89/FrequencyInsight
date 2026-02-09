@@ -1,0 +1,12 @@
+gradio>=4.0.0
+librosa
+numpy
+matplotlib
+scipy
+soundfile
+yt-dlp
+openai-whisper
+langdetect
+torch
+transformers
+sentencepiece
